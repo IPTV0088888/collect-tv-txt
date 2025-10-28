@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251028 07:49:45,url
+20251029 07:49:35,url
 
 
 freetv_other,#genre#
@@ -116,6 +116,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-21.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-23.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-27.ctv
+嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-34.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-7.ctv
 嘉佳卡通,https://stream1.freetv.fun/jia-jia-qia-tong-9.ctv
 四川卫视高清,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-6.ctv
@@ -412,6 +413,7 @@ tvbs亞洲,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-3.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-4.m3u8
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
+金鹰卡通,https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-18.m3u8
 金鹰卡通,https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-32.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-30.m3u8
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-5.m3u8
